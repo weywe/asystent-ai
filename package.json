@@ -1,0 +1,14 @@
+{
+  "name": "resell-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "axios": "^1.7.9",
+    "discord.js": "^14.17.3",
+    "express": "^4.21.2"
+  }
+}
